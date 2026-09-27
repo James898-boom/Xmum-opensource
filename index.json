@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-27T14:16:33Z",
+  "commit": "c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/James898-boom/Xmum-opensource@c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
+  "stats": {
+    "totalFiles": 2,
+    "totalBytes": 20971631
+  },
+  "courses": [
+    {
+      "courseId": 1,
+      "name": null,
+      "lecturer": ""
+    }
+  ],
+  "files": [
+    {
+      "path": "c1/lecture/probe-20mb.pdf",
+      "name": "probe-20mb.pdf",
+      "ext": "pdf",
+      "kind": "pdf",
+      "title": "probe-20mb",
+      "courseId": 1,
+      "courseName": null,
+      "lecturer": "",
+      "type": "lecture",
+      "lesson": null,
+      "lessonTitle": null,
+      "examNode": null,
+      "source": null,
+      "tags": [],
+      "semester": null,
+      "description": null,
+      "uploaderNickname": null,
+      "downloads": 0,
+      "size": 20971516,
+      "sha256": "90576bc03e51bed277ecd7b7cebb7ac50088a4ca24754653e350bcf7ce5f9a65"
+    },
+    {
+      "path": "c1/notes/2025-09-第三课时-链表与树.md",
+      "name": "2025-09-第三课时-链表与树.md",
+      "ext": "md",
+      "kind": "markdown",
+      "title": "2025-09-第三课时-链表与树",
+      "courseId": 1,
+      "courseName": null,
+      "lecturer": "",
+      "type": "notes",
+      "lesson": null,
+      "lessonTitle": null,
+      "examNode": null,
+      "source": null,
+      "tags": [],
+      "semester": null,
+      "description": null,
+      "uploaderNickname": null,
+      "downloads": 0,
+      "size": 115,
+      "sha256": "6ff72460b3ab7764fae9ee45e15528fa64d4737ca58d90a75611cd294df6334d"
+    }
+  ]
+}
