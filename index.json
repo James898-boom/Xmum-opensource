@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "baseUrl": null,
+  "commit": "c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
+  "courses": [
+    {
+      "courseId": 7,
+      "name": "数据结构与算法",
+      "lecturer": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "2025-09-第三课时-链表与树.md",
+      "ext": "md",
+      "kind": "markdown",
+      "title": "第三课时 链表与树",
+      "description": "端到端连通性测试（可删除）",
+      "lesson": 3,
+      "lessonTitle": "链表与树",
+      "examNode": null,
+      "source": null,
+      "tags": [
+        "端到端测试"
+      ],
+      "semester": "2025/09",
+      "size": 474,
+      "sha256": "5c05e3c7d4b148c11949ea818299945bc273e1ba33d1ca3c2fd1025cebf688c4",
+      "updatedAt": "2026-09-27T15:12:26Z",
+      "uploaderNickname": "端到端测试",
+      "downloads": 0,
+      "path": "c7/notes/2025-09-第三课时-链表与树.md",
+      "courseId": 7,
+      "courseName": "数据结构与算法",
+      "lecturer": "",
+      "type": "notes"
+    }
+  ],
+  "stats": {
+    "totalFiles": 1,
+    "totalBytes": 474
+  },
+  "generatedAt": "2026-09-27T15:12:27Z"
+}
