@@ -208,10 +208,19 @@ const INDEX_PATH = path.join(ROOT, 'index.json');
 let index = null;
 
 if (!existsSync(INDEX_PATH)) {
-  err(
-    `[索引] 缺少 index.json。\n` +
-      `        可用 \`node .github/scripts/build-index.mjs\` 生成后一并提交。`
-  );
+  // 引导状态：仓库刚建好、还没有任何资料时，index.json 尚不存在是正常的
+  // （它由第一份资料的上传 PR 一并创建）。只要有材料文件却缺索引，就必须报错。
+  if (materialFiles.length === 0) {
+    warn(
+      '[索引] 仓库尚无 index.json（空仓库引导状态）——' +
+        '首份资料上传时会随 PR 一并创建，此处不视为失败。'
+    );
+  } else {
+    err(
+      `[索引] 缺少 index.json，但仓库已有 ${materialFiles.length} 个材料文件。\n` +
+        `        可用 \`node .github/scripts/build-index.mjs\` 生成后一并提交。`
+    );
+  }
 } else {
   let raw;
   try {
