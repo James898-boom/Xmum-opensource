@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-27T14:16:33Z",
-  "commit": "c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
-  "baseUrl": "https://cdn.jsdelivr.net/gh/James898-boom/Xmum-opensource@c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
+  "generatedAt": "2026-09-27T14:17:50Z",
+  "commit": "b5796d9d61986e4a2d07dbc634978c4efdaf83d2",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/James898-boom/Xmum-opensource@b5796d9d61986e4a2d07dbc634978c4efdaf83d2",
   "stats": {
-    "totalFiles": 2,
-    "totalBytes": 20971631
+    "totalFiles": 3,
+    "totalBytes": 42991723
   },
   "courses": [
     {
@@ -36,6 +36,28 @@
       "downloads": 0,
       "size": 20971516,
       "sha256": "90576bc03e51bed277ecd7b7cebb7ac50088a4ca24754653e350bcf7ce5f9a65"
+    },
+    {
+      "path": "c1/lecture/probe-21mb.pdf",
+      "name": "probe-21mb.pdf",
+      "ext": "pdf",
+      "kind": "pdf",
+      "title": "probe-21mb",
+      "courseId": 1,
+      "courseName": null,
+      "lecturer": "",
+      "type": "lecture",
+      "lesson": null,
+      "lessonTitle": null,
+      "examNode": null,
+      "source": null,
+      "tags": [],
+      "semester": null,
+      "description": null,
+      "uploaderNickname": null,
+      "downloads": 0,
+      "size": 22020092,
+      "sha256": "fdc95edb140613167b68ff13516834292f599bfba2a5fe760bddc4ddc26991be"
     },
     {
       "path": "c1/notes/2025-09-第三课时-链表与树.md",
