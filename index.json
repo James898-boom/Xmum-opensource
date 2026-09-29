@@ -1,8 +1,13 @@
 {
   "schemaVersion": 2,
   "baseUrl": null,
-  "commit": "c7681342752ee0d1ddef8fa7beea7b3b5d82a60c",
+  "commit": "609e375918d1246a9f50e4d9d635bc066197b0ed",
   "courses": [
+    {
+      "courseId": 2,
+      "name": "English",
+      "lecturer": ""
+    },
     {
       "courseId": 7,
       "name": "数据结构与算法",
@@ -10,6 +15,31 @@
     }
   ],
   "files": [
+    {
+      "name": "vocabulary-print.md",
+      "ext": "md",
+      "kind": "markdown",
+      "title": "雅思词汇表-IeltsVocalbularySheet",
+      "description": "雅思词汇表-IeltsVocalbularySheet",
+      "lesson": null,
+      "lessonTitle": null,
+      "examNode": null,
+      "source": null,
+      "tags": [
+        "VocalbularySheet"
+      ],
+      "semester": null,
+      "size": 459964,
+      "sha256": "2cd2fdd95d5cccf126bea42f60b9dee53b35b4e0f639a7e387724d753f7813fc",
+      "updatedAt": "2026-09-29T06:42:48Z",
+      "uploaderNickname": "Ye Jianqin",
+      "downloads": 0,
+      "path": "c2/notes/vocabulary-print.md",
+      "courseId": 2,
+      "courseName": "English",
+      "lecturer": "",
+      "type": "notes"
+    },
     {
       "name": "2025-09-第三课时-链表与树.md",
       "ext": "md",
@@ -37,8 +67,8 @@
     }
   ],
   "stats": {
-    "totalFiles": 1,
-    "totalBytes": 474
+    "totalFiles": 2,
+    "totalBytes": 460438
   },
-  "generatedAt": "2026-09-27T15:12:27Z"
+  "generatedAt": "2026-09-29T06:42:49Z"
 }
