@@ -1,12 +1,17 @@
 {
   "schemaVersion": 2,
   "baseUrl": null,
-  "commit": "609e375918d1246a9f50e4d9d635bc066197b0ed",
+  "commit": "81eff63ea04c7b14f2b2e8711722d9fed5470e2f",
   "courses": [
     {
       "courseId": 2,
       "name": "English",
       "lecturer": ""
+    },
+    {
+      "courseId": 3,
+      "name": "SWE203-Human computer interaction",
+      "lecturer": "Ili Farhana Md Mahtar"
     },
     {
       "courseId": 7,
@@ -41,6 +46,28 @@
       "type": "notes"
     },
     {
+      "name": "HCI-Chapter 1 Introduction.pdf",
+      "ext": "pdf",
+      "kind": "pdf",
+      "title": "HCI-Chapter 1 Introduction",
+      "description": "HCI Chapter 1 structured note",
+      "lesson": 1,
+      "lessonTitle": "Introduction",
+      "examNode": null,
+      "source": null,
+      "tags": [],
+      "semester": "2026/09",
+      "size": 249281,
+      "sha256": "82aa9f65e03cb1821553ff6fc67161c1637e2027e6cafeadd5ecc9e88083b878",
+      "updatedAt": "2026-10-01T01:35:21Z",
+      "downloads": 0,
+      "path": "c3/notes/HCI-Chapter 1 Introduction.pdf",
+      "courseId": 3,
+      "courseName": "SWE203-Human computer interaction",
+      "lecturer": "Ili Farhana Md Mahtar",
+      "type": "notes"
+    },
+    {
       "name": "2025-09-第三课时-链表与树.md",
       "ext": "md",
       "kind": "markdown",
@@ -67,8 +94,8 @@
     }
   ],
   "stats": {
-    "totalFiles": 2,
-    "totalBytes": 460438
+    "totalFiles": 3,
+    "totalBytes": 709719
   },
-  "generatedAt": "2026-09-29T06:42:49Z"
+  "generatedAt": "2026-10-01T01:35:22Z"
 }
