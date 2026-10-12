@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "baseUrl": null,
-  "commit": "8659b46fe0649b8cc2da59193c0104c677b095aa",
+  "commit": "7b84a8ea7a9aa1ac7f25593e9e85e39148d98ee6",
   "courses": [
     {
       "courseId": 2,
@@ -77,7 +77,7 @@
       "ext": "pdf",
       "kind": "pdf",
       "title": "data_structure",
-      "description": "lecture 3 C_string",
+      "description": "gagaga",
       "lesson": 3,
       "lessonTitle": "C_string",
       "examNode": null,
@@ -86,7 +86,7 @@
       "semester": "2026/09",
       "size": 732670,
       "sha256": "f8e7184fa72d26b6f013ece25b7bc275a8169e9ad9d43bb96deac2e779b1944a",
-      "updatedAt": "2026-10-12T12:52:54Z",
+      "updatedAt": "2026-10-12T12:55:11Z",
       "downloads": 0,
       "path": "c6/notes/CST204 - Strings in C.review.pdf",
       "courseId": 6,
@@ -124,5 +124,5 @@
     "totalFiles": 4,
     "totalBytes": 1442389
   },
-  "generatedAt": "2026-10-12T12:52:55Z"
+  "generatedAt": "2026-10-12T12:55:11Z"
 }
