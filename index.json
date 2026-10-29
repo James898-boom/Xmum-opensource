@@ -125,6 +125,30 @@
       "type": "notes"
     },
     {
+      "name": "BSC107-06- Magnetism - magnetic fields and magnetic forces part II) ori.review.pdf",
+      "ext": "pdf",
+      "kind": "pdf",
+      "title": "Magnetism-PART2",
+      "description": "BSC107-06- Magnetism - magnetic fields and magnetic forces (part II) ori.review",
+      "lesson": 6,
+      "lessonTitle": "Magnetism-PART2",
+      "examNode": null,
+      "source": null,
+      "tags": [
+        "平时"
+      ],
+      "semester": "2026/09",
+      "size": 973580,
+      "sha256": "c1761d0223e72f02ca3c02c7e4253383c1edfbde95720c751e520bc213a85fc7",
+      "updatedAt": "2026-10-29T05:17:23Z",
+      "downloads": 0,
+      "path": "c9/notes/BSC107-06- Magnetism - magnetic fields and magnetic forces part II) ori.review.pdf",
+      "courseId": 9,
+      "courseName": "General Physics II 2026/09",
+      "lecturer": "NayMing Huang",
+      "type": "notes"
+    },
+    {
       "name": "BSC107-06-Magnetism-magnetic-fields-and-magnetic-forces-part-I.review.pdf",
       "ext": "pdf",
       "kind": "pdf",
@@ -150,8 +174,8 @@
     }
   ],
   "stats": {
-    "totalFiles": 5,
-    "totalBytes": 2097592
+    "totalFiles": 6,
+    "totalBytes": 3071172
   },
   "generatedAt": "2026-10-29T05:28:52Z"
 }
